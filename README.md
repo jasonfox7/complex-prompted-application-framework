@@ -1,5 +1,3 @@
-Yes — here's the full `README.md` content again. You can copy everything below this line, paste it into a text editor (like Notepad, VS Code, etc.), and save the file as `README.md`.
-
 ```markdown
 # LLM-Orchestrated Multi-Agent Development Framework v4
 
